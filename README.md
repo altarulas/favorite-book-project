@@ -1,5 +1,7 @@
 # Favorite-Book-Project
 
+In this project, I developed a desktop application that can add, delete and search a book using Core Java and swing interface in the backend. 
+
 Entering Username
 
 ![1](https://user-images.githubusercontent.com/92596687/149661336-3043b0c1-0b93-439e-a14f-d5a617dce01c.PNG)
